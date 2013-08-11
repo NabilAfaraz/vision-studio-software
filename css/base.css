@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Doppio+One);
+@import url(http://fonts.googleapis.com/css?family=Ledger);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+
+h3{
+	font-family:  'Open Sans', sans-serif;
+	color: rgba(255,255,255,0.7);
+
+	
+}
+
+p{
+
+	font-family: 'Ledger';
+	color: rgba(255,255,255,0.9);
+
+	
+}
+
+
+.container{
+	background: rgba(0,0,0,0.8);
+	padding: 2%;
+	border-radius: 5px;
+}
+
